@@ -1,0 +1,11 @@
+.svn
+.settings
+.classpath
+.project
+.vscode
+.factorypath
+*.sh
+~
+
+target/
+logs/

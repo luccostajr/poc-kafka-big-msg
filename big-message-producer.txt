@@ -1,0 +1,1509 @@
+-= PRODUCER STARTED =-
+Now:		2024-01-05 19:52:40
+
+CustomObject 1 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "6f277486-af33-4380-8755-ae13ea8239e6",
+	name: "{topic:"big-message-topic", timestamp:"1704495160481", id:"6f277486-af33-4380-8755-ae13ea8239e6"}",
+	timeStamp: "1704495160481",
+	timeStampFormatted: "2024-01-05 19:52:40",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 1 sent to partition 0 with offset 1210 in 199 ms
+
+CustomObject 2 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "95d3a690-09a5-409f-a03b-0e1d211c53d7",
+	name: "{topic:"big-message-topic", timestamp:"1704495160682", id:"95d3a690-09a5-409f-a03b-0e1d211c53d7"}",
+	timeStamp: "1704495160682",
+	timeStampFormatted: "2024-01-05 19:52:40",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 2 sent to partition 0 with offset 1211 in 166 ms
+
+CustomObject 3 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "a44d86f0-8fe6-4e90-8aab-73b4307baffd",
+	name: "{topic:"big-message-topic", timestamp:"1704495160848", id:"a44d86f0-8fe6-4e90-8aab-73b4307baffd"}",
+	timeStamp: "1704495160848",
+	timeStampFormatted: "2024-01-05 19:52:40",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 3 sent to partition 0 with offset 1212 in 156 ms
+
+CustomObject 4 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "da98d251-2192-4e5f-90bf-f85735fe46d6",
+	name: "{topic:"big-message-topic", timestamp:"1704495161004", id:"da98d251-2192-4e5f-90bf-f85735fe46d6"}",
+	timeStamp: "1704495161004",
+	timeStampFormatted: "2024-01-05 19:52:41",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 4 sent to partition 0 with offset 1213 in 153 ms
+
+CustomObject 5 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "9dbf30fa-8144-46fe-9f85-92e337e50f47",
+	name: "{topic:"big-message-topic", timestamp:"1704495161159", id:"9dbf30fa-8144-46fe-9f85-92e337e50f47"}",
+	timeStamp: "1704495161159",
+	timeStampFormatted: "2024-01-05 19:52:41",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 5 sent to partition 0 with offset 1214 in 156 ms
+
+CustomObject 6 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "7b216fc8-a6a2-4b79-9dbc-7518151cd3c6",
+	name: "{topic:"big-message-topic", timestamp:"1704495161308", id:"7b216fc8-a6a2-4b79-9dbc-7518151cd3c6"}",
+	timeStamp: "1704495161308",
+	timeStampFormatted: "2024-01-05 19:52:41",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 6 sent to partition 0 with offset 1215 in 148 ms
+
+CustomObject 7 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "f86ef7b5-b393-49d5-a2bf-ef54998d2a60",
+	name: "{topic:"big-message-topic", timestamp:"1704495161456", id:"f86ef7b5-b393-49d5-a2bf-ef54998d2a60"}",
+	timeStamp: "1704495161456",
+	timeStampFormatted: "2024-01-05 19:52:41",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 7 sent to partition 0 with offset 1216 in 152 ms
+
+CustomObject 8 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "6f8431ce-67a1-4974-be67-2dab8db6aa59",
+	name: "{topic:"big-message-topic", timestamp:"1704495161608", id:"6f8431ce-67a1-4974-be67-2dab8db6aa59"}",
+	timeStamp: "1704495161608",
+	timeStampFormatted: "2024-01-05 19:52:41",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 8 sent to partition 0 with offset 1217 in 148 ms
+
+CustomObject 9 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "f707c556-404c-4ff9-b5c6-659d580f7603",
+	name: "{topic:"big-message-topic", timestamp:"1704495161759", id:"f707c556-404c-4ff9-b5c6-659d580f7603"}",
+	timeStamp: "1704495161759",
+	timeStampFormatted: "2024-01-05 19:52:41",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 9 sent to partition 0 with offset 1218 in 150 ms
+
+CustomObject 10 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "78a5f53d-ab1e-47a3-a7b1-c8370d84d00e",
+	name: "{topic:"big-message-topic", timestamp:"1704495161906", id:"78a5f53d-ab1e-47a3-a7b1-c8370d84d00e"}",
+	timeStamp: "1704495161906",
+	timeStampFormatted: "2024-01-05 19:52:41",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 10 sent to partition 0 with offset 1219 in 156 ms
+
+CustomObject 11 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "25e823f0-b4f8-440b-8579-3c447184632a",
+	name: "{topic:"big-message-topic", timestamp:"1704495162062", id:"25e823f0-b4f8-440b-8579-3c447184632a"}",
+	timeStamp: "1704495162062",
+	timeStampFormatted: "2024-01-05 19:52:42",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 11 sent to partition 0 with offset 1220 in 146 ms
+
+CustomObject 12 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "88f7fdd1-f995-47ea-9c5e-53b6de795f4f",
+	name: "{topic:"big-message-topic", timestamp:"1704495162208", id:"88f7fdd1-f995-47ea-9c5e-53b6de795f4f"}",
+	timeStamp: "1704495162208",
+	timeStampFormatted: "2024-01-05 19:52:42",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 12 sent to partition 0 with offset 1221 in 152 ms
+
+CustomObject 13 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "7e0ffd00-eaff-428e-ac36-7f92eb3aabb5",
+	name: "{topic:"big-message-topic", timestamp:"1704495162364", id:"7e0ffd00-eaff-428e-ac36-7f92eb3aabb5"}",
+	timeStamp: "1704495162364",
+	timeStampFormatted: "2024-01-05 19:52:42",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 13 sent to partition 0 with offset 1222 in 150 ms
+
+CustomObject 14 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "85d3ac84-3359-4a4f-bf82-564eae5c9a87",
+	name: "{topic:"big-message-topic", timestamp:"1704495162510", id:"85d3ac84-3359-4a4f-bf82-564eae5c9a87"}",
+	timeStamp: "1704495162510",
+	timeStampFormatted: "2024-01-05 19:52:42",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 14 sent to partition 0 with offset 1223 in 153 ms
+
+CustomObject 15 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "fffc6bdd-981e-4b00-bf1a-433f2745a8e4",
+	name: "{topic:"big-message-topic", timestamp:"1704495162663", id:"fffc6bdd-981e-4b00-bf1a-433f2745a8e4"}",
+	timeStamp: "1704495162663",
+	timeStampFormatted: "2024-01-05 19:52:42",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 15 sent to partition 0 with offset 1224 in 152 ms
+
+CustomObject 16 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "f261c079-15a1-4b4d-ba88-ba5915fd5989",
+	name: "{topic:"big-message-topic", timestamp:"1704495162815", id:"f261c079-15a1-4b4d-ba88-ba5915fd5989"}",
+	timeStamp: "1704495162815",
+	timeStampFormatted: "2024-01-05 19:52:42",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 16 sent to partition 0 with offset 1225 in 146 ms
+
+CustomObject 17 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "9d383980-56b4-4db5-b584-6e9bcb1d556d",
+	name: "{topic:"big-message-topic", timestamp:"1704495162964", id:"9d383980-56b4-4db5-b584-6e9bcb1d556d"}",
+	timeStamp: "1704495162964",
+	timeStampFormatted: "2024-01-05 19:52:42",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 17 sent to partition 0 with offset 1226 in 152 ms
+
+CustomObject 18 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "8b1f23ae-8c33-4932-8a45-4bdd0f74f397",
+	name: "{topic:"big-message-topic", timestamp:"1704495163113", id:"8b1f23ae-8c33-4932-8a45-4bdd0f74f397"}",
+	timeStamp: "1704495163113",
+	timeStampFormatted: "2024-01-05 19:52:43",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 18 sent to partition 0 with offset 1227 in 152 ms
+
+CustomObject 19 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "9cab5c42-7ce2-4b3b-9c95-7976e7ab9a7f",
+	name: "{topic:"big-message-topic", timestamp:"1704495163265", id:"9cab5c42-7ce2-4b3b-9c95-7976e7ab9a7f"}",
+	timeStamp: "1704495163265",
+	timeStampFormatted: "2024-01-05 19:52:43",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 19 sent to partition 0 with offset 1228 in 152 ms
+
+CustomObject 20 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "eedb69d0-e73a-4643-8a9d-c326e0bb053c",
+	name: "{topic:"big-message-topic", timestamp:"1704495163417", id:"eedb69d0-e73a-4643-8a9d-c326e0bb053c"}",
+	timeStamp: "1704495163417",
+	timeStampFormatted: "2024-01-05 19:52:43",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 20 sent to partition 0 with offset 1229 in 153 ms
+
+CustomObject 21 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "1aae6596-e3fe-4e11-955b-c3c71f592718",
+	name: "{topic:"big-message-topic", timestamp:"1704495163573", id:"1aae6596-e3fe-4e11-955b-c3c71f592718"}",
+	timeStamp: "1704495163573",
+	timeStampFormatted: "2024-01-05 19:52:43",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 21 sent to partition 0 with offset 1230 in 156 ms
+
+CustomObject 22 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "418d3fdb-3455-4026-9510-278c027060c8",
+	name: "{topic:"big-message-topic", timestamp:"1704495163726", id:"418d3fdb-3455-4026-9510-278c027060c8"}",
+	timeStamp: "1704495163726",
+	timeStampFormatted: "2024-01-05 19:52:43",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 22 sent to partition 0 with offset 1231 in 152 ms
+
+CustomObject 23 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "63759f36-a8b3-4303-9d92-d9c579410c1e",
+	name: "{topic:"big-message-topic", timestamp:"1704495163878", id:"63759f36-a8b3-4303-9d92-d9c579410c1e"}",
+	timeStamp: "1704495163878",
+	timeStampFormatted: "2024-01-05 19:52:43",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 23 sent to partition 0 with offset 1232 in 152 ms
+
+CustomObject 24 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "24247291-0c33-42c6-b224-705427827f1f",
+	name: "{topic:"big-message-topic", timestamp:"1704495164030", id:"24247291-0c33-42c6-b224-705427827f1f"}",
+	timeStamp: "1704495164030",
+	timeStampFormatted: "2024-01-05 19:52:44",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 24 sent to partition 0 with offset 1233 in 152 ms
+
+CustomObject 25 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "267f8b2a-a2e4-4be5-95dd-d594166673f3",
+	name: "{topic:"big-message-topic", timestamp:"1704495164186", id:"267f8b2a-a2e4-4be5-95dd-d594166673f3"}",
+	timeStamp: "1704495164186",
+	timeStampFormatted: "2024-01-05 19:52:44",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 25 sent to partition 0 with offset 1234 in 156 ms
+
+CustomObject 26 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "608265a8-5c1b-461a-a64c-2ac38fb0ec6a",
+	name: "{topic:"big-message-topic", timestamp:"1704495164338", id:"608265a8-5c1b-461a-a64c-2ac38fb0ec6a"}",
+	timeStamp: "1704495164338",
+	timeStampFormatted: "2024-01-05 19:52:44",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 26 sent to partition 0 with offset 1235 in 152 ms
+
+CustomObject 27 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "c812cd99-6040-4166-9300-ccf997dd217c",
+	name: "{topic:"big-message-topic", timestamp:"1704495164490", id:"c812cd99-6040-4166-9300-ccf997dd217c"}",
+	timeStamp: "1704495164490",
+	timeStampFormatted: "2024-01-05 19:52:44",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 27 sent to partition 0 with offset 1236 in 153 ms
+
+CustomObject 28 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "a153c6a5-62c3-41e2-b197-fea592543579",
+	name: "{topic:"big-message-topic", timestamp:"1704495164643", id:"a153c6a5-62c3-41e2-b197-fea592543579"}",
+	timeStamp: "1704495164643",
+	timeStampFormatted: "2024-01-05 19:52:44",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 28 sent to partition 0 with offset 1237 in 154 ms
+
+CustomObject 29 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "cd752455-d23b-4f4e-9d7e-c042b64c976f",
+	name: "{topic:"big-message-topic", timestamp:"1704495164800", id:"cd752455-d23b-4f4e-9d7e-c042b64c976f"}",
+	timeStamp: "1704495164800",
+	timeStampFormatted: "2024-01-05 19:52:44",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 29 sent to partition 0 with offset 1238 in 158 ms
+
+CustomObject 30 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "5360f7da-49dd-4246-8d22-7dcd17ca5d7c",
+	name: "{topic:"big-message-topic", timestamp:"1704495164955", id:"5360f7da-49dd-4246-8d22-7dcd17ca5d7c"}",
+	timeStamp: "1704495164955",
+	timeStampFormatted: "2024-01-05 19:52:44",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 30 sent to partition 0 with offset 1239 in 147 ms
+
+CustomObject 31 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "479161b0-673b-4b8d-8e20-46c82add50d4",
+	name: "{topic:"big-message-topic", timestamp:"1704495165102", id:"479161b0-673b-4b8d-8e20-46c82add50d4"}",
+	timeStamp: "1704495165102",
+	timeStampFormatted: "2024-01-05 19:52:45",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 31 sent to partition 0 with offset 1240 in 153 ms
+
+CustomObject 32 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "da52d29f-37d3-47e1-a881-94912159084e",
+	name: "{topic:"big-message-topic", timestamp:"1704495165255", id:"da52d29f-37d3-47e1-a881-94912159084e"}",
+	timeStamp: "1704495165255",
+	timeStampFormatted: "2024-01-05 19:52:45",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 32 sent to partition 0 with offset 1241 in 153 ms
+
+CustomObject 33 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "021db11e-703b-4412-b16a-a34d3022095b",
+	name: "{topic:"big-message-topic", timestamp:"1704495165411", id:"021db11e-703b-4412-b16a-a34d3022095b"}",
+	timeStamp: "1704495165411",
+	timeStampFormatted: "2024-01-05 19:52:45",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 33 sent to partition 0 with offset 1242 in 155 ms
+
+CustomObject 34 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "0cacab04-90ef-432b-a60f-5cb03133911c",
+	name: "{topic:"big-message-topic", timestamp:"1704495165564", id:"0cacab04-90ef-432b-a60f-5cb03133911c"}",
+	timeStamp: "1704495165564",
+	timeStampFormatted: "2024-01-05 19:52:45",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 34 sent to partition 0 with offset 1243 in 152 ms
+
+CustomObject 35 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "d34eb891-76f0-449b-a0e3-2d7f657c2404",
+	name: "{topic:"big-message-topic", timestamp:"1704495165716", id:"d34eb891-76f0-449b-a0e3-2d7f657c2404"}",
+	timeStamp: "1704495165716",
+	timeStampFormatted: "2024-01-05 19:52:45",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 35 sent to partition 0 with offset 1244 in 152 ms
+
+CustomObject 36 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "35f2f139-b797-4010-b675-699b5fd3320b",
+	name: "{topic:"big-message-topic", timestamp:"1704495165868", id:"35f2f139-b797-4010-b675-699b5fd3320b"}",
+	timeStamp: "1704495165868",
+	timeStampFormatted: "2024-01-05 19:52:45",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 36 sent to partition 0 with offset 1245 in 152 ms
+
+CustomObject 37 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "952b8421-0e48-4f91-9bb1-04976a513b08",
+	name: "{topic:"big-message-topic", timestamp:"1704495166024", id:"952b8421-0e48-4f91-9bb1-04976a513b08"}",
+	timeStamp: "1704495166024",
+	timeStampFormatted: "2024-01-05 19:52:46",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 37 sent to partition 0 with offset 1246 in 156 ms
+
+CustomObject 38 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "7bec7868-f9f0-4b68-9f84-1060719d1eb5",
+	name: "{topic:"big-message-topic", timestamp:"1704495166176", id:"7bec7868-f9f0-4b68-9f84-1060719d1eb5"}",
+	timeStamp: "1704495166176",
+	timeStampFormatted: "2024-01-05 19:52:46",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 38 sent to partition 0 with offset 1247 in 152 ms
+
+CustomObject 39 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "d30cb4bd-9d8a-4607-8bac-7a1490b73f68",
+	name: "{topic:"big-message-topic", timestamp:"1704495166328", id:"d30cb4bd-9d8a-4607-8bac-7a1490b73f68"}",
+	timeStamp: "1704495166328",
+	timeStampFormatted: "2024-01-05 19:52:46",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 39 sent to partition 0 with offset 1248 in 152 ms
+
+CustomObject 40 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "56c12b9b-ce66-45ed-8907-6997e5b8994a",
+	name: "{topic:"big-message-topic", timestamp:"1704495166480", id:"56c12b9b-ce66-45ed-8907-6997e5b8994a"}",
+	timeStamp: "1704495166480",
+	timeStampFormatted: "2024-01-05 19:52:46",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 40 sent to partition 0 with offset 1249 in 152 ms
+
+CustomObject 41 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "1d69a6a8-6286-432d-a146-b4d7942359c6",
+	name: "{topic:"big-message-topic", timestamp:"1704495166636", id:"1d69a6a8-6286-432d-a146-b4d7942359c6"}",
+	timeStamp: "1704495166636",
+	timeStampFormatted: "2024-01-05 19:52:46",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 41 sent to partition 0 with offset 1250 in 154 ms
+
+CustomObject 42 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "6548d960-3329-4317-b46d-7bf9a2cb2311",
+	name: "{topic:"big-message-topic", timestamp:"1704495166786", id:"6548d960-3329-4317-b46d-7bf9a2cb2311"}",
+	timeStamp: "1704495166786",
+	timeStampFormatted: "2024-01-05 19:52:46",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 42 sent to partition 0 with offset 1251 in 154 ms
+
+CustomObject 43 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "a7a101e4-d518-4fe4-82db-d2ebed3a160a",
+	name: "{topic:"big-message-topic", timestamp:"1704495166940", id:"a7a101e4-d518-4fe4-82db-d2ebed3a160a"}",
+	timeStamp: "1704495166940",
+	timeStampFormatted: "2024-01-05 19:52:46",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 43 sent to partition 0 with offset 1252 in 153 ms
+
+CustomObject 44 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "af386e7c-a3f1-4886-948b-7c0f335798f7",
+	name: "{topic:"big-message-topic", timestamp:"1704495167093", id:"af386e7c-a3f1-4886-948b-7c0f335798f7"}",
+	timeStamp: "1704495167093",
+	timeStampFormatted: "2024-01-05 19:52:47",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 44 sent to partition 0 with offset 1253 in 153 ms
+
+CustomObject 45 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "7999d041-5357-486a-847c-668aeedd04b3",
+	name: "{topic:"big-message-topic", timestamp:"1704495167249", id:"7999d041-5357-486a-847c-668aeedd04b3"}",
+	timeStamp: "1704495167249",
+	timeStampFormatted: "2024-01-05 19:52:47",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 45 sent to partition 0 with offset 1254 in 156 ms
+
+CustomObject 46 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "a1856c70-e20e-4d24-b1bc-b3b52ba6d1c4",
+	name: "{topic:"big-message-topic", timestamp:"1704495167402", id:"a1856c70-e20e-4d24-b1bc-b3b52ba6d1c4"}",
+	timeStamp: "1704495167402",
+	timeStampFormatted: "2024-01-05 19:52:47",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 46 sent to partition 0 with offset 1255 in 153 ms
+
+CustomObject 47 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "12052394-41ca-4113-a2b8-912e0fb2e46c",
+	name: "{topic:"big-message-topic", timestamp:"1704495167555", id:"12052394-41ca-4113-a2b8-912e0fb2e46c"}",
+	timeStamp: "1704495167555",
+	timeStampFormatted: "2024-01-05 19:52:47",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 47 sent to partition 0 with offset 1256 in 153 ms
+
+CustomObject 48 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "c1fdcba3-26c0-46de-b35b-4f7436c785b7",
+	name: "{topic:"big-message-topic", timestamp:"1704495167708", id:"c1fdcba3-26c0-46de-b35b-4f7436c785b7"}",
+	timeStamp: "1704495167708",
+	timeStampFormatted: "2024-01-05 19:52:47",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 48 sent to partition 0 with offset 1257 in 153 ms
+
+CustomObject 49 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "99409b8c-1769-4b52-a00f-be76623c6f15",
+	name: "{topic:"big-message-topic", timestamp:"1704495167865", id:"99409b8c-1769-4b52-a00f-be76623c6f15"}",
+	timeStamp: "1704495167865",
+	timeStampFormatted: "2024-01-05 19:52:47",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 49 sent to partition 0 with offset 1258 in 157 ms
+
+CustomObject 50 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "9503ca22-5554-42ed-9f71-9c32c88e6e03",
+	name: "{topic:"big-message-topic", timestamp:"1704495168017", id:"9503ca22-5554-42ed-9f71-9c32c88e6e03"}",
+	timeStamp: "1704495168017",
+	timeStampFormatted: "2024-01-05 19:52:48",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 50 sent to partition 0 with offset 1259 in 153 ms
+
+CustomObject 51 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "b3561ec6-f0ac-4dce-913a-922394390c87",
+	name: "{topic:"big-message-topic", timestamp:"1704495168171", id:"b3561ec6-f0ac-4dce-913a-922394390c87"}",
+	timeStamp: "1704495168171",
+	timeStampFormatted: "2024-01-05 19:52:48",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 51 sent to partition 0 with offset 1260 in 153 ms
+
+CustomObject 52 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "ad688c25-ac06-4bd6-b0d5-661ebab6117d",
+	name: "{topic:"big-message-topic", timestamp:"1704495168324", id:"ad688c25-ac06-4bd6-b0d5-661ebab6117d"}",
+	timeStamp: "1704495168324",
+	timeStampFormatted: "2024-01-05 19:52:48",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 52 sent to partition 0 with offset 1261 in 153 ms
+
+CustomObject 53 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "c6e608d1-7ed9-4aa7-890e-7540770140af",
+	name: "{topic:"big-message-topic", timestamp:"1704495168480", id:"c6e608d1-7ed9-4aa7-890e-7540770140af"}",
+	timeStamp: "1704495168480",
+	timeStampFormatted: "2024-01-05 19:52:48",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 53 sent to partition 0 with offset 1262 in 155 ms
+
+CustomObject 54 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "dd912451-0894-4f9e-83fe-628d1ad6171d",
+	name: "{topic:"big-message-topic", timestamp:"1704495168632", id:"dd912451-0894-4f9e-83fe-628d1ad6171d"}",
+	timeStamp: "1704495168632",
+	timeStampFormatted: "2024-01-05 19:52:48",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 54 sent to partition 0 with offset 1263 in 153 ms
+
+CustomObject 55 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "f51a6aa8-e238-4186-802a-23c8ffb19df4",
+	name: "{topic:"big-message-topic", timestamp:"1704495168785", id:"f51a6aa8-e238-4186-802a-23c8ffb19df4"}",
+	timeStamp: "1704495168785",
+	timeStampFormatted: "2024-01-05 19:52:48",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 55 sent to partition 0 with offset 1264 in 152 ms
+
+CustomObject 56 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "ce3ba357-5f41-480a-b126-f6f1689f3c62",
+	name: "{topic:"big-message-topic", timestamp:"1704495168937", id:"ce3ba357-5f41-480a-b126-f6f1689f3c62"}",
+	timeStamp: "1704495168937",
+	timeStampFormatted: "2024-01-05 19:52:48",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 56 sent to partition 0 with offset 1265 in 153 ms
+
+CustomObject 57 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "dff7f874-e5da-4acd-a313-ee19c01fadac",
+	name: "{topic:"big-message-topic", timestamp:"1704495169093", id:"dff7f874-e5da-4acd-a313-ee19c01fadac"}",
+	timeStamp: "1704495169093",
+	timeStampFormatted: "2024-01-05 19:52:49",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 57 sent to partition 0 with offset 1266 in 155 ms
+
+CustomObject 58 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "7e2fa7db-877f-4734-8350-40107803e5cb",
+	name: "{topic:"big-message-topic", timestamp:"1704495169245", id:"7e2fa7db-877f-4734-8350-40107803e5cb"}",
+	timeStamp: "1704495169245",
+	timeStampFormatted: "2024-01-05 19:52:49",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 58 sent to partition 0 with offset 1267 in 152 ms
+
+CustomObject 59 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "dd1707c3-feaf-4477-8792-644e59c81fe7",
+	name: "{topic:"big-message-topic", timestamp:"1704495169397", id:"dd1707c3-feaf-4477-8792-644e59c81fe7"}",
+	timeStamp: "1704495169397",
+	timeStampFormatted: "2024-01-05 19:52:49",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 59 sent to partition 0 with offset 1268 in 153 ms
+
+CustomObject 60 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "abdcc254-7856-434a-9248-c18370a3c98b",
+	name: "{topic:"big-message-topic", timestamp:"1704495169550", id:"abdcc254-7856-434a-9248-c18370a3c98b"}",
+	timeStamp: "1704495169550",
+	timeStampFormatted: "2024-01-05 19:52:49",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 60 sent to partition 0 with offset 1269 in 153 ms
+
+CustomObject 61 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "a74412cc-554d-45ac-960e-480c5728cbc8",
+	name: "{topic:"big-message-topic", timestamp:"1704495169707", id:"a74412cc-554d-45ac-960e-480c5728cbc8"}",
+	timeStamp: "1704495169707",
+	timeStampFormatted: "2024-01-05 19:52:49",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 61 sent to partition 0 with offset 1270 in 157 ms
+
+CustomObject 62 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "63beb999-3f4f-4c98-966d-34ee21932b5b",
+	name: "{topic:"big-message-topic", timestamp:"1704495169860", id:"63beb999-3f4f-4c98-966d-34ee21932b5b"}",
+	timeStamp: "1704495169860",
+	timeStampFormatted: "2024-01-05 19:52:49",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 62 sent to partition 0 with offset 1271 in 153 ms
+
+CustomObject 63 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "b9bd68ae-91a3-4e8c-9a5a-3991e852563c",
+	name: "{topic:"big-message-topic", timestamp:"1704495170013", id:"b9bd68ae-91a3-4e8c-9a5a-3991e852563c"}",
+	timeStamp: "1704495170013",
+	timeStampFormatted: "2024-01-05 19:52:50",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 63 sent to partition 0 with offset 1272 in 154 ms
+
+CustomObject 64 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "b80b79ad-a40c-4595-9777-54d80ab642a1",
+	name: "{topic:"big-message-topic", timestamp:"1704495170167", id:"b80b79ad-a40c-4595-9777-54d80ab642a1"}",
+	timeStamp: "1704495170167",
+	timeStampFormatted: "2024-01-05 19:52:50",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 64 sent to partition 0 with offset 1273 in 153 ms
+
+CustomObject 65 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "3223b17a-8497-4b1d-9ad9-dce990a1d8f2",
+	name: "{topic:"big-message-topic", timestamp:"1704495170326", id:"3223b17a-8497-4b1d-9ad9-dce990a1d8f2"}",
+	timeStamp: "1704495170326",
+	timeStampFormatted: "2024-01-05 19:52:50",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 65 sent to partition 0 with offset 1274 in 160 ms
+
+CustomObject 66 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "f4c94c83-891a-434b-80ef-2979186fc775",
+	name: "{topic:"big-message-topic", timestamp:"1704495170480", id:"f4c94c83-891a-434b-80ef-2979186fc775"}",
+	timeStamp: "1704495170480",
+	timeStampFormatted: "2024-01-05 19:52:50",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 66 sent to partition 0 with offset 1275 in 153 ms
+
+CustomObject 67 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "3a74ce61-cb64-4a43-96b6-fc226e809509",
+	name: "{topic:"big-message-topic", timestamp:"1704495170633", id:"3a74ce61-cb64-4a43-96b6-fc226e809509"}",
+	timeStamp: "1704495170633",
+	timeStampFormatted: "2024-01-05 19:52:50",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 67 sent to partition 0 with offset 1276 in 155 ms
+
+CustomObject 68 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "5655e264-0939-4cad-a236-65243a0c50b2",
+	name: "{topic:"big-message-topic", timestamp:"1704495170788", id:"5655e264-0939-4cad-a236-65243a0c50b2"}",
+	timeStamp: "1704495170788",
+	timeStampFormatted: "2024-01-05 19:52:50",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 68 sent to partition 0 with offset 1277 in 153 ms
+
+CustomObject 69 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "52f31770-5013-4ed4-9271-f7092ccb8dff",
+	name: "{topic:"big-message-topic", timestamp:"1704495170942", id:"52f31770-5013-4ed4-9271-f7092ccb8dff"}",
+	timeStamp: "1704495170942",
+	timeStampFormatted: "2024-01-05 19:52:50",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 69 sent to partition 0 with offset 1278 in 154 ms
+
+CustomObject 70 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "774ff377-cb0c-4362-8836-e3211027a2a0",
+	name: "{topic:"big-message-topic", timestamp:"1704495171095", id:"774ff377-cb0c-4362-8836-e3211027a2a0"}",
+	timeStamp: "1704495171095",
+	timeStampFormatted: "2024-01-05 19:52:51",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 70 sent to partition 0 with offset 1279 in 153 ms
+
+CustomObject 71 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "b3c42dfb-df0a-4d56-9cc1-ba9fc7c3c2ed",
+	name: "{topic:"big-message-topic", timestamp:"1704495171248", id:"b3c42dfb-df0a-4d56-9cc1-ba9fc7c3c2ed"}",
+	timeStamp: "1704495171248",
+	timeStampFormatted: "2024-01-05 19:52:51",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 71 sent to partition 0 with offset 1280 in 153 ms
+
+CustomObject 72 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "ca0847d1-3323-4104-ae52-1af64d7b34e6",
+	name: "{topic:"big-message-topic", timestamp:"1704495171401", id:"ca0847d1-3323-4104-ae52-1af64d7b34e6"}",
+	timeStamp: "1704495171401",
+	timeStampFormatted: "2024-01-05 19:52:51",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 72 sent to partition 0 with offset 1281 in 153 ms
+
+CustomObject 73 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "d823b73b-43ca-4149-910b-a595f7f9145d",
+	name: "{topic:"big-message-topic", timestamp:"1704495171555", id:"d823b73b-43ca-4149-910b-a595f7f9145d"}",
+	timeStamp: "1704495171555",
+	timeStampFormatted: "2024-01-05 19:52:51",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 73 sent to partition 0 with offset 1282 in 154 ms
+
+CustomObject 74 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "83b4c679-74a1-4b31-af9d-30c67d8d9a0d",
+	name: "{topic:"big-message-topic", timestamp:"1704495171708", id:"83b4c679-74a1-4b31-af9d-30c67d8d9a0d"}",
+	timeStamp: "1704495171708",
+	timeStampFormatted: "2024-01-05 19:52:51",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 74 sent to partition 0 with offset 1283 in 153 ms
+
+CustomObject 75 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "388894de-c025-4d86-86c5-2252e57db0b6",
+	name: "{topic:"big-message-topic", timestamp:"1704495171861", id:"388894de-c025-4d86-86c5-2252e57db0b6"}",
+	timeStamp: "1704495171861",
+	timeStampFormatted: "2024-01-05 19:52:51",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 75 sent to partition 0 with offset 1284 in 154 ms
+
+CustomObject 76 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "774f7859-c6c6-463b-bab5-8b45f3916ec1",
+	name: "{topic:"big-message-topic", timestamp:"1704495172015", id:"774f7859-c6c6-463b-bab5-8b45f3916ec1"}",
+	timeStamp: "1704495172015",
+	timeStampFormatted: "2024-01-05 19:52:52",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 76 sent to partition 0 with offset 1285 in 153 ms
+
+CustomObject 77 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "79eaef7e-8080-4ac4-a63a-6645eb40f1c3",
+	name: "{topic:"big-message-topic", timestamp:"1704495172169", id:"79eaef7e-8080-4ac4-a63a-6645eb40f1c3"}",
+	timeStamp: "1704495172169",
+	timeStampFormatted: "2024-01-05 19:52:52",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 77 sent to partition 0 with offset 1286 in 148 ms
+
+CustomObject 78 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "c8812cff-f257-4bab-a3f7-1be0189b3bfd",
+	name: "{topic:"big-message-topic", timestamp:"1704495172316", id:"c8812cff-f257-4bab-a3f7-1be0189b3bfd"}",
+	timeStamp: "1704495172316",
+	timeStampFormatted: "2024-01-05 19:52:52",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 78 sent to partition 0 with offset 1287 in 152 ms
+
+CustomObject 79 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "92944ed6-b7b5-4ad1-b3ca-5b95a05215da",
+	name: "{topic:"big-message-topic", timestamp:"1704495172468", id:"92944ed6-b7b5-4ad1-b3ca-5b95a05215da"}",
+	timeStamp: "1704495172468",
+	timeStampFormatted: "2024-01-05 19:52:52",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 79 sent to partition 0 with offset 1288 in 152 ms
+
+CustomObject 80 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "6a8c4752-9238-46fa-9ab8-a6b1e4ff6a9b",
+	name: "{topic:"big-message-topic", timestamp:"1704495172620", id:"6a8c4752-9238-46fa-9ab8-a6b1e4ff6a9b"}",
+	timeStamp: "1704495172620",
+	timeStampFormatted: "2024-01-05 19:52:52",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 80 sent to partition 0 with offset 1289 in 151 ms
+
+CustomObject 81 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "fc2a14ff-ff3d-49c1-b106-46118d047f4f",
+	name: "{topic:"big-message-topic", timestamp:"1704495172772", id:"fc2a14ff-ff3d-49c1-b106-46118d047f4f"}",
+	timeStamp: "1704495172772",
+	timeStampFormatted: "2024-01-05 19:52:52",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 81 sent to partition 0 with offset 1290 in 152 ms
+
+CustomObject 82 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "953b867a-d6e2-4e0e-99f6-4b2a5ea179ce",
+	name: "{topic:"big-message-topic", timestamp:"1704495172924", id:"953b867a-d6e2-4e0e-99f6-4b2a5ea179ce"}",
+	timeStamp: "1704495172924",
+	timeStampFormatted: "2024-01-05 19:52:52",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 82 sent to partition 0 with offset 1291 in 152 ms
+
+CustomObject 83 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "f0d9e6cb-74f4-41db-a034-92e41a2bc7e2",
+	name: "{topic:"big-message-topic", timestamp:"1704495173075", id:"f0d9e6cb-74f4-41db-a034-92e41a2bc7e2"}",
+	timeStamp: "1704495173075",
+	timeStampFormatted: "2024-01-05 19:52:53",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 83 sent to partition 0 with offset 1292 in 153 ms
+
+CustomObject 84 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "b95338b6-16cf-4fde-858d-d9e69a8ba912",
+	name: "{topic:"big-message-topic", timestamp:"1704495173228", id:"b95338b6-16cf-4fde-858d-d9e69a8ba912"}",
+	timeStamp: "1704495173228",
+	timeStampFormatted: "2024-01-05 19:52:53",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 84 sent to partition 0 with offset 1293 in 152 ms
+
+CustomObject 85 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "dae4844c-bf2b-42b1-bcec-cefcef021fd0",
+	name: "{topic:"big-message-topic", timestamp:"1704495173381", id:"dae4844c-bf2b-42b1-bcec-cefcef021fd0"}",
+	timeStamp: "1704495173381",
+	timeStampFormatted: "2024-01-05 19:52:53",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 85 sent to partition 0 with offset 1294 in 154 ms
+
+CustomObject 86 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "01ebc375-cd6a-437b-bb37-90c272902003",
+	name: "{topic:"big-message-topic", timestamp:"1704495173534", id:"01ebc375-cd6a-437b-bb37-90c272902003"}",
+	timeStamp: "1704495173534",
+	timeStampFormatted: "2024-01-05 19:52:53",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 86 sent to partition 0 with offset 1295 in 152 ms
+
+CustomObject 87 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "c2eb3586-48ea-4bfc-a971-5813c5e31298",
+	name: "{topic:"big-message-topic", timestamp:"1704495173686", id:"c2eb3586-48ea-4bfc-a971-5813c5e31298"}",
+	timeStamp: "1704495173686",
+	timeStampFormatted: "2024-01-05 19:52:53",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 87 sent to partition 0 with offset 1296 in 151 ms
+
+CustomObject 88 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "28bdf765-9df9-4863-bc7d-1ab95c1f4eaf",
+	name: "{topic:"big-message-topic", timestamp:"1704495173837", id:"28bdf765-9df9-4863-bc7d-1ab95c1f4eaf"}",
+	timeStamp: "1704495173837",
+	timeStampFormatted: "2024-01-05 19:52:53",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 88 sent to partition 0 with offset 1297 in 152 ms
+
+CustomObject 89 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "3382fc83-b0dc-43af-93f2-6348b48e886e",
+	name: "{topic:"big-message-topic", timestamp:"1704495173990", id:"3382fc83-b0dc-43af-93f2-6348b48e886e"}",
+	timeStamp: "1704495173990",
+	timeStampFormatted: "2024-01-05 19:52:53",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 89 sent to partition 0 with offset 1298 in 153 ms
+
+CustomObject 90 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "1a065337-b7aa-4bd5-b7f1-ced5065d3ab5",
+	name: "{topic:"big-message-topic", timestamp:"1704495174142", id:"1a065337-b7aa-4bd5-b7f1-ced5065d3ab5"}",
+	timeStamp: "1704495174142",
+	timeStampFormatted: "2024-01-05 19:52:54",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 90 sent to partition 0 with offset 1299 in 151 ms
+
+CustomObject 91 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "919ca556-d6ed-45b5-ac4d-5dfc3e36d33f",
+	name: "{topic:"big-message-topic", timestamp:"1704495174293", id:"919ca556-d6ed-45b5-ac4d-5dfc3e36d33f"}",
+	timeStamp: "1704495174293",
+	timeStampFormatted: "2024-01-05 19:52:54",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 91 sent to partition 0 with offset 1300 in 152 ms
+
+CustomObject 92 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "5582866b-7377-4a51-8c47-82f613bf9d6c",
+	name: "{topic:"big-message-topic", timestamp:"1704495174445", id:"5582866b-7377-4a51-8c47-82f613bf9d6c"}",
+	timeStamp: "1704495174445",
+	timeStampFormatted: "2024-01-05 19:52:54",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 92 sent to partition 0 with offset 1301 in 151 ms
+
+CustomObject 93 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "9656f0d4-f72e-4f15-9926-6a0ea334cec8",
+	name: "{topic:"big-message-topic", timestamp:"1704495174597", id:"9656f0d4-f72e-4f15-9926-6a0ea334cec8"}",
+	timeStamp: "1704495174597",
+	timeStampFormatted: "2024-01-05 19:52:54",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 93 sent to partition 0 with offset 1302 in 153 ms
+
+CustomObject 94 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "e32f7baa-9a72-481b-bca3-85b1b2bdbcd0",
+	name: "{topic:"big-message-topic", timestamp:"1704495174749", id:"e32f7baa-9a72-481b-bca3-85b1b2bdbcd0"}",
+	timeStamp: "1704495174749",
+	timeStampFormatted: "2024-01-05 19:52:54",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 94 sent to partition 0 with offset 1303 in 151 ms
+
+CustomObject 95 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "09e1e3a6-7720-4a45-9289-2e0994a85810",
+	name: "{topic:"big-message-topic", timestamp:"1704495174901", id:"09e1e3a6-7720-4a45-9289-2e0994a85810"}",
+	timeStamp: "1704495174901",
+	timeStampFormatted: "2024-01-05 19:52:54",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 95 sent to partition 0 with offset 1304 in 151 ms
+
+CustomObject 96 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "05327c53-79f1-49c6-87a8-7fcb50539d55",
+	name: "{topic:"big-message-topic", timestamp:"1704495175052", id:"05327c53-79f1-49c6-87a8-7fcb50539d55"}",
+	timeStamp: "1704495175052",
+	timeStampFormatted: "2024-01-05 19:52:55",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 96 sent to partition 0 with offset 1305 in 152 ms
+
+CustomObject 97 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "88359577-4764-430f-a065-416e1e77e367",
+	name: "{topic:"big-message-topic", timestamp:"1704495175205", id:"88359577-4764-430f-a065-416e1e77e367"}",
+	timeStamp: "1704495175205",
+	timeStampFormatted: "2024-01-05 19:52:55",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 97 sent to partition 0 with offset 1306 in 153 ms
+
+CustomObject 98 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "d5f62f72-b5ba-40b2-98c0-700412eac2ff",
+	name: "{topic:"big-message-topic", timestamp:"1704495175357", id:"d5f62f72-b5ba-40b2-98c0-700412eac2ff"}",
+	timeStamp: "1704495175357",
+	timeStampFormatted: "2024-01-05 19:52:55",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 98 sent to partition 0 with offset 1307 in 155 ms
+
+CustomObject 99 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "967dc2a1-0474-4930-8f0b-4294c7e70ded",
+	name: "{topic:"big-message-topic", timestamp:"1704495175512", id:"967dc2a1-0474-4930-8f0b-4294c7e70ded"}",
+	timeStamp: "1704495175512",
+	timeStampFormatted: "2024-01-05 19:52:55",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 99 sent to partition 0 with offset 1308 in 154 ms
+
+CustomObject 100 of 100:
+{CustomObject: {
+	topic: "big-message-topic",
+	id: "7e0e3a07-7f59-4814-a718-29fd03c967c2",
+	name: "{topic:"big-message-topic", timestamp:"1704495175667", id:"7e0e3a07-7f59-4814-a718-29fd03c967c2"}",
+	timeStamp: "1704495175667",
+	timeStampFormatted: "2024-01-05 19:52:55",
+	payload: {
+		size: "104857600",
+		chars: "104857600",
+		content: "'+++++0123456789:;<=>' ... 'ghijklmnopqrstu-----'"
+	}
+}}
+Record 100 sent to partition 0 with offset 1309 in 151 ms
+
+
+Statistics:
+	Terminated at:	2024-01-05 19:52:55
+	Total time:	15552 ms
+	Min diff rec timestamps: 146 ms
+	Max diff rec timestamps: 160 ms
