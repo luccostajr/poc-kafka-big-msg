@@ -3,7 +3,7 @@ Insert the lines below at the bottom of server.properties file, located in kafka
 
 ex.: */usr/shared/kafka/config/server.properties* (sudo needed to edit this file)
 
-remember to restart kafka after changing these configs: 
+Remember to restart kafka after changing these configs: 
 
 ```
 sudo systemctl restart kafka.service 
@@ -48,4 +48,5 @@ max.message.bytes = 104857600
 ```
 
 ### References: 
+https://www.conduktor.io/kafka/how-to-send-large-messages-in-apache-kafka/
 https://dzone.com/articles/kafka-producer-and-consumer-example
