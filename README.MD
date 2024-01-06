@@ -1,6 +1,6 @@
 # Kafka configs for large messages
 
-**Insert the instructions in server.properties file** 
+**Insert the instructions in server.properties file.** 
 
 obs: the kafka.server.properties.addendum file contains the lines to copy and paste.
 
