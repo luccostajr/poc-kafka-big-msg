@@ -17,7 +17,7 @@ sudo systemctl restart kafka-zookeeper.service
 
 ## Consumer side:
 *This will determine the largest size of a message that can be fetched by the consumer. 
-The tested value here is 104857600 (100MB).*
+The tested value in this POC is 104857600 (100MB).*
 
 ```
 fetch.message.max.bytes = 104857600
