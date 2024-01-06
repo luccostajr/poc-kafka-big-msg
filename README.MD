@@ -50,7 +50,7 @@ max.message.bytes = 104857600
 ```
 
 ### Notes: 
-The *kafka.server.properties.addendum* file contains the lines to copy and paste.
+The *resources/kafka.server.properties.addendum* file contains the lines to copy and paste.
 
 ### References: 
 > https://www.conduktor.io/kafka/how-to-send-large-messages-in-apache-kafka/
