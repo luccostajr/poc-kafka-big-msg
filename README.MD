@@ -49,4 +49,5 @@ max.message.bytes = 104857600
 
 ### References: 
 > https://www.conduktor.io/kafka/how-to-send-large-messages-in-apache-kafka/
+
 > https://dzone.com/articles/kafka-producer-and-consumer-example
