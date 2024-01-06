@@ -1,7 +1,12 @@
 # kafka configs for large messages
-Insert the lines below at the bottom of server.properties file, located in kafka config directory
 
-ex.: */usr/shared/kafka/config/server.properties* (sudo needed to edit this file)
+**Insert the instructions in server.properties file** 
+
+obs: the kafka.server.properties.addendum file contains the lines to copy and paste.
+
+Example of file location (sudo needed to edit the file): 
+
+> */usr/shared/kafka/config/server.properties*
 
 Remember to restart kafka after changing these configs: 
 
@@ -11,8 +16,6 @@ sudo systemctl restart kafka.service
 ```
 sudo systemctl restart kafka-zookeeper.service
 ```
-
-**Insert the quoted lines in server.properties (the kafka.server.properties.addendum file contains the lines to copy and paste)**
 
 ## Consumer side:
 *This will determine the largest size of a message that can be fetched by the consumer. 
