@@ -1,4 +1,4 @@
-# kafka configs for large messages
+# Kafka configs for large messages
 
 **Insert the instructions in server.properties file** 
 
