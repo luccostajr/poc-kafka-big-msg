@@ -1,4 +1,5 @@
-# Kafka configs for large messages in SOMA / GAMMA broker
+# Kafka configurations for large messages transport in SOMA / GAMMA applications
+This POC aims to validate a Kafka configuration which enables a huge message size in a determined topic. This is considered essential for Partial Discharge (PD) data transportation in system data bus using Apache Kafka messaging broker.
 
 **Insert the instructions in server.properties file.** 
 
