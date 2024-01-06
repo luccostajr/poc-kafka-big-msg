@@ -30,20 +30,23 @@ public class CustomObject implements Serializable {
 	protected void fullFillPayload() {
 		byte b = 0;
 		int i = 0;
-		// header with determined 5 chars
-		for (; i < 5; i++) {
-			payload[i] = '+';
+		String idStr = id.toString();
+		String timeStampStr = String.valueOf(timeStamp);
+
+		// header with id in string format
+		for (; i < idStr.length(); i++) {
+			payload[i] = idStr.getBytes()[i];
 		}
 
 		// body with ascii sequence
-		for (; i < payload.length - 5; i++) {
+		for (; i < payload.length - timeStampStr.length(); i++) {
 			b = (byte) (b++ % 127) == 0 ? 48 : b;
 			payload[i] = b;
 		}
 
 		// footer with determined 5 chars
 		for (; i < payload.length; i++) {
-			payload[i] = '-';
+			payload[i] = timeStampStr.getBytes()[i - payload.length + timeStampStr.length()];
 		}
 	}
 
@@ -63,8 +66,8 @@ public class CustomObject implements Serializable {
 				"\tpayload: {" + "\n" +
 				"\t\tsize: \"" + payload.length + "\",\n" +
 				"\t\tchars: \"" + payloadString.length() + "\",\n" +
-				"\t\tcontent: \"'" + payloadString.substring(0, 20) + "' ... '"
-				+ payloadString.substring(payloadString.length() - 20) + "'\"\n\t}" +
+				"\t\tcontent: \"'" + payloadString.substring(0, 30) + "' ... '"
+				+ payloadString.substring(payloadString.length() - 30) + "'\"\n\t}" +
 				"\n}}";
 	}
 }

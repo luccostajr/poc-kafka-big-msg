@@ -96,6 +96,6 @@ public class Helper {
 	}
 
 	public synchronized static String getFormattedDateTime(long now) {
-		return String.format("%1$tY-%1$tm-%1$td %1$tH:%1$tM:%1$tS", now);
+		return String.format("%1$td/%1$tm/%1$tY %1$tH:%1$tM:%1$tS.%1$tL", now);
 	}
 }

@@ -1,8 +1,16 @@
 # kafka configs for large messages
+# insert the lines below at the bottom of server.properties file, located in kafka config directory
+# ex.: /usr/shared/kafka/config/server.properties (sudo needed to edit this file)
+# remember to restart kafka after changing these configs: 
+# sudo systemctl restart kafka.service 
+# sudo systemctl restart kafka-zookeeper.service
+
+# insert the lines below the line
+# --------------------------------------------
 
 # Consumer side:
 # this will determine the largest size of a message that can be fetched by the consumer. 
-# The tested value is 104857600 (100MB).
+# The tested value here is 104857600 (100MB).
 fetch.message.max.bytes = 104857600
 
 # Broker side:
