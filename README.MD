@@ -1,4 +1,4 @@
-# Kafka configs for large messages
+# Kafka configs for large messages in SOMA / GAMMA broker
 
 **Insert the instructions in server.properties file.** 
 
