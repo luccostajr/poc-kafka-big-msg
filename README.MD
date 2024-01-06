@@ -1,5 +1,5 @@
 # Kafka configurations for large messages transport in SOMA / GAMMA applications
-This POC aims to validate a Kafka configuration which enables huge messages transport between microservices. This is considered essential for Partial Discharge (PD) data transportation in data bus, using Apache Kafka messaging broker.
+This POC aims to validate a Kafka configuration which enables huge messages transport between microservices. This is considered essential for Partial Discharge (PD) data transportation in data bus, using Apache Kafka messaging broker. The result code validates production and consumption of messages with 100 MB payload each.
 
 **Insert the instructions in server.properties file.** 
 
