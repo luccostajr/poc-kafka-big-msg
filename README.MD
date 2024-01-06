@@ -6,8 +6,10 @@ ex.: */usr/shared/kafka/config/server.properties* (sudo needed to edit this file
 remember to restart kafka after changing these configs: 
 
 ```
-> sudo systemctl restart kafka.service 
-> sudo systemctl restart kafka-zookeeper.service
+sudo systemctl restart kafka.service 
+```
+```
+sudo systemctl restart kafka-zookeeper.service
 ```
 
 **Insert the quoted lines in server.properties (the kafka.server.properties.addendum file contains the lines to copy and paste)**
@@ -17,7 +19,7 @@ remember to restart kafka after changing these configs:
 The tested value here is 104857600 (100MB).*
 
 ```
-> fetch.message.max.bytes = 104857600
+fetch.message.max.bytes = 104857600
 ```
 
 ## Broker side:
@@ -27,14 +29,14 @@ will never be replicated, and therefore, the consumer will never see the message
 the message will never be committed (fully replicated).*
 
 ```
-> replica.fetch.max.bytes = 104857600
+replica.fetch.max.bytes = 104857600
 ```
 
 ## Broker side:
 *This is the largest size of the message that can be received by the broker from a producer.*
 
 ```
-> message.max.bytes = 104857600
+message.max.bytes = 104857600
 ```
 
 ## Broker side (per topic): 
@@ -42,7 +44,8 @@ the message will never be committed (fully replicated).*
 This size is validated pre-compression. (Defaults to broker's message.max.bytes.)*
 
 ```
-> max.message.bytes = 104857600
+max.message.bytes = 104857600
 ```
 
-Reference: https://dzone.com/articles/kafka-producer-and-consumer-example
+### References: 
+https://dzone.com/articles/kafka-producer-and-consumer-example
