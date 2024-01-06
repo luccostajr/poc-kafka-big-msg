@@ -2,7 +2,9 @@ https://dzone.com/articles/kafka-producer-and-consumer-example
 
 # kafka configs for large messages
 insert the lines below at the bottom of server.properties file, located in kafka config directory
+
 ex.: /usr/shared/kafka/config/server.properties (sudo needed to edit this file)
+
 remember to restart kafka after changing these configs: 
 
 sudo systemctl restart kafka.service 
