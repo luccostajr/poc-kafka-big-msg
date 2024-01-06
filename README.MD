@@ -1,14 +1,14 @@
 https://dzone.com/articles/kafka-producer-and-consumer-example
 
 # kafka configs for large messages
-# insert the lines below at the bottom of server.properties file, located in kafka config directory
-# ex.: /usr/shared/kafka/config/server.properties (sudo needed to edit this file)
-# remember to restart kafka after changing these configs: 
-# sudo systemctl restart kafka.service 
-# sudo systemctl restart kafka-zookeeper.service
+insert the lines below at the bottom of server.properties file, located in kafka config directory
+ex.: /usr/shared/kafka/config/server.properties (sudo needed to edit this file)
+remember to restart kafka after changing these configs: 
+sudo systemctl restart kafka.service 
+sudo systemctl restart kafka-zookeeper.service
 
-# insert the lines below the line
-# --------------------------------------------
+insert the lines below the line
+--------------------------------------------
 
 # Consumer side:
 # this will determine the largest size of a message that can be fetched by the consumer. 
