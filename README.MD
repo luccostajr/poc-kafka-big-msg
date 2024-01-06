@@ -2,8 +2,6 @@
 
 **Insert the instructions in server.properties file.** 
 
-Obs: the kafka.server.properties.addendum file contains the lines to copy and paste.
-
 Example of file location (sudo needed to edit the file): 
 
 > */usr/shared/kafka/config/server.properties*
@@ -49,6 +47,9 @@ This size is validated pre-compression. (Defaults to broker's message.max.bytes.
 ```
 max.message.bytes = 104857600
 ```
+
+### Notes: 
+The *kafka.server.properties.addendum* file contains the lines to copy and paste.
 
 ### References: 
 > https://www.conduktor.io/kafka/how-to-send-large-messages-in-apache-kafka/
